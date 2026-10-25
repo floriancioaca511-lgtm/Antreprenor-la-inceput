@@ -1,0 +1,32 @@
+SRL microintreprindere: impozitul pe venit si dividendele
+
+Un SRL mic poate intra, daca indeplineste conditiile legale, in regimul de
+microintreprindere. In acest regim, firma nu plateste impozit pe profit, ci un
+impozit calculat ca procent din veniturile (cifra de afaceri), indiferent de
+cheltuieli. Cota, plafonul de venituri si conditiile de incadrare au fost
+modificate de mai multe ori in ultimii ani.
+
+Conditiile tipice pentru regimul de microintreprindere includ: venituri anuale
+sub un plafon stabilit prin lege, un anumit numar minim de salariati sau alte
+cerinte legate de asociati si de activitatea desfasurata. Daca o conditie nu
+mai este indeplinita, firma trece la impozitul pe profit.
+
+Banii incasati de SRL apartin firmei, nu asociatului. Ca sa ajunga la tine,
+exista doua cai principale: salariul (cu contributiile si impozitul pe salariu,
+platite lunar) si dividendele (distribuite din profitul ramas dupa impozitare,
+cu impozit pe dividende si, peste anumite praguri, CASS).
+
+Dividendele se pot distribui anual, dupa aprobarea situatiilor financiare, sau
+interimar (trimestrial), in conditiile legii. A lua bani din contul firmei fara
+o baza legala (salariu, dividende, decont de cheltuieli justificate) este o
+greseala serioasa: sumele pot fi considerate venituri impozabile sau pot genera
+sanctiuni.
+
+Un SRL are costuri fixe pe care un PFA nu le are: contabilul (aproape
+obligatoriu in practica, din cauza partidei duble), depunerea situatiilor
+financiare anuale si a declaratiilor periodice, eventual un sediu social. Pentru
+venituri mici, aceste costuri pot anula avantajul fiscal.
+
+Comparatia PFA - SRL trebuie refacuta ori de cate ori se schimba legislatia sau
+veniturile tale. Un contabil iti poate calcula, pe cifrele tale reale, suma
+neta care iti ramane in fiecare varianta.

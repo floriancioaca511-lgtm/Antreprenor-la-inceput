@@ -1,0 +1,30 @@
+Cum iti stabilesti tariful ca freelancer
+
+O greseala frecventa la inceput este compararea tarifului orar de freelancer cu
+salariul net al unui angajat. Ca freelancer, din incasari platesti taxe si
+contributii, echipamente, software, contabil, si nu esti platit pentru concedii,
+zile de boala sau perioadele fara proiecte.
+
+Un calcul simplu porneste de la venitul net dorit pe an. La acesta adaugi
+costurile activitatii (echipamente, software, contabil, cursuri) si suma
+estimata pentru taxe si contributii. Rezultatul este incasarea anuala necesara.
+
+Apoi estimezi orele facturabile pe an. Un an are aproximativ 2.000 de ore
+lucratoare, dar nu toate sunt facturabile: concedii, sarbatori, zile de boala,
+timp pentru gasirea clientilor, administrativ si invatare. Pentru un freelancer,
+1.000-1.400 de ore facturabile pe an este o estimare realista.
+
+Tariful orar minim = incasarea anuala necesara / orele facturabile. Exemplu: daca
+ai nevoie de 120.000 de lei incasati pe an si estimezi 1.200 de ore facturabile,
+tariful minim este de 100 de lei pe ora. Sub aceasta valoare, activitatea nu iti
+acopera nevoile.
+
+Pe langa tariful orar, exista tarifarea pe proiect (un pret fix pentru un
+livrabil clar) si pe valoare (pretul raportat la beneficiul adus clientului).
+Pretul fix este avantajos cand estimezi bine si lucrezi eficient, dar riscant
+cand cerintele sunt neclare - de aceea are nevoie de un contract precis.
+
+Tarifele se revizuiesc periodic, de exemplu anual sau la fiecare client nou, pe
+masura ce experienta si portofoliul cresc. Un tarif prea mic atrage adesea
+clientii cei mai dificili si este greu de crescut mai tarziu pentru acelasi
+client.

@@ -1,0 +1,32 @@
+Facturarea si sistemul e-Factura
+
+Factura este documentul prin care ceri plata pentru un produs sau un serviciu.
+Ea serveste si ca document justificativ in contabilitate, deci trebuie sa
+contina toate elementele obligatorii, altfel poate fi contestata de client sau
+de autoritati.
+
+Elementele de baza ale unei facturi: serie si numar (consecutive, fara goluri),
+data emiterii, datele complete ale furnizorului si ale clientului (denumire,
+cod fiscal, adresa), descrierea serviciilor sau produselor, cantitatea, pretul
+unitar, valoarea totala si, daca este cazul, TVA-ul. Pentru clienti straini,
+factura se emite de obicei si in limba engleza, in moneda agreata.
+
+In Romania, sistemul national RO e-Factura este obligatoriu pentru facturile
+dintre firme (B2B) si, in conditiile legii, si pentru alte categorii de
+operatiuni. Factura se emite intr-un format electronic standard (XML) si se
+transmite prin platforma ANAF, intr-un termen stabilit prin lege. Majoritatea
+programelor de facturare fac aceasta transmitere automat.
+
+Termenul de plata se stabileste prin contract sau prin factura (de exemplu, 15
+sau 30 de zile). Un termen clar si trimiterea facturii imediat dupa livrare
+reduc intarzierile. Tine o evidenta simpla a facturilor emise si a celor
+incasate, ca sa vezi rapid ce clienti intarzie.
+
+Facturile emise si documentele primite (bonuri, facturi de la furnizori,
+extrase bancare) se pastreaza organizat pe perioada prevazuta de lege. Un
+sistem simplu - un folder pe luna, sau un program de facturare cu arhivare -
+economiseste mult timp la declaratii si la eventuale controale.
+
+O greseala frecventa: lucrul fara contract si fara factura cu clientii
+"cunoscuti". Pe langa riscul fiscal, fara documente nu ai nicio dovada in caz
+de neplata.

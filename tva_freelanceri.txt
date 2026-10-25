@@ -1,0 +1,31 @@
+TVA pentru freelanceri: platitor sau neplatitor
+
+TVA (taxa pe valoarea adaugata) este o taxa pe consum. O firma sau un PFA
+platitor de TVA adauga TVA la pretul facturat, il incaseaza de la client si il
+varsa statului, scazand TVA-ul platit la propriile achizitii. Pentru afacerea
+ta, TVA-ul nu este un venit - sunt bani colectati pentru stat.
+
+La inceput, majoritatea freelancerilor si a firmelor mici sunt neplatitori de
+TVA. Inregistrarea devine obligatorie cand veniturile anuale depasesc un plafon
+stabilit prin Codul fiscal. Te poti inregistra si voluntar, sub plafon, daca iti
+este avantajos (de exemplu, cand ai cheltuieli mari cu TVA sau clienti care
+prefera furnizori platitori).
+
+Avantajul de a fi neplatitor: facturi mai simple si preturi mai mici pentru
+clientii persoane fizice sau neplatitori (care nu pot recupera TVA-ul).
+Dezavantajul: nu poti recupera TVA-ul de la achizitii (laptop, software,
+echipamente).
+
+Atentie la serviciile prestate catre clienti firme din alte tari ale Uniunii
+Europene: chiar si un neplatitor de TVA trebuie, de regula, sa se inregistreze
+in scopuri de TVA pentru operatiuni intracomunitare (cod de TVA intracomunitar),
+inainte de a factura. In acest caz se aplica, de obicei, taxarea inversa: tu nu
+adaugi TVA pe factura, iar clientul il declara in tara lui.
+
+Pentru clienti din afara Uniunii Europene (de exemplu, din Statele Unite sau din
+Marea Britanie), regulile sunt diferite, iar locul prestarii serviciului
+determina daca se aplica TVA in Romania.
+
+Regulile de TVA sunt printre cele mai tehnice din fiscalitate, iar greselile pot
+duce la sume de plata si penalitati. Inainte de primul contract cu un client din
+strainatate, verifica regulile in vigoare impreuna cu un contabil.

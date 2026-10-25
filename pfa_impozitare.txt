@@ -1,0 +1,33 @@
+PFA: sistem real, norma de venit si contributiile sociale
+
+Un PFA poate fi impozitat in doua moduri principale: in sistem real sau pe
+baza de norma de venit. Modul de impozitare determina cat impozit platesti si
+cata evidenta trebuie sa tii.
+
+In sistem real, impozitul se calculeaza pe venitul net: incasarile minus
+cheltuielile deductibile ale activitatii (de exemplu echipamente, software,
+abonamente profesionale, chirie pentru spatiul de lucru, in conditiile legii).
+Este avantajos cand ai cheltuieli reale importante. Necesita evidenta
+contabila in partida simpla si pastrarea documentelor justificative.
+
+Norma de venit este o suma fixa, stabilita anual pentru fiecare activitate
+si judet. Impozitul se calculeaza la aceasta suma, indiferent cat ai incasat
+efectiv. Este foarte simpla si poate fi avantajoasa la venituri mari, dar nu
+este disponibila pentru toate activitatile (codurile CAEN) si exista un
+plafon de venituri peste care nu mai poate fi aplicata.
+
+Pe langa impozitul pe venit, un PFA poate datora doua contributii sociale:
+CAS (pentru pensie) si CASS (pentru sanatate). Ele se calculeaza in functie
+de veniturile realizate, raportate la praguri exprimate in numar de salarii
+minime brute pe tara. Peste anumite praguri, contributia nu mai creste.
+
+Toate aceste sume se declara prin Declaratia unica (formularul 212),
+depusa online la ANAF, de regula pana la 25 mai a anului urmator. Prin
+aceeasi declaratie se face si estimarea pentru anul in curs, iar depunerea
+la timp poate aduce bonificatii, in conditiile stabilite anual.
+
+O greseala frecventa la inceput este sa cheltuiesti toti banii incasati,
+uitand ca taxele se platesc abia anul urmator. O regula practica: pune
+deoparte, la fiecare incasare, un procent estimat pentru taxe, intr-un cont
+separat. Procentele, pragurile si termenele se schimba - verifica intotdeauna
+valorile in vigoare pentru anul respectiv.

@@ -1,0 +1,31 @@
+Contractul de prestari servicii
+
+Contractul este documentul care stabileste ce faci, pentru cine, in ce termen si
+pentru ce bani. Pentru un freelancer, un contract clar previne cele mai multe
+conflicte: cerinte care se tot schimba, plati intarziate, dispute despre cine
+detine codul scris.
+
+Elementele esentiale ale unui contract de servicii: partile (date complete),
+obiectul (descrierea exacta a serviciilor si a livrabilelor), durata sau
+termenele de livrare, pretul si modalitatea de plata, procedura de acceptare a
+livrabilelor, conditiile de modificare si de incetare a contractului.
+
+Scope creep inseamna cresterea treptata a cerintelor peste ce s-a agreat
+initial, fara ajustarea pretului sau a termenului. Protectia este o descriere
+precisa a livrabilelor si o clauza care spune ca orice cerinta noua se
+estimeaza si se agreeaza separat, in scris.
+
+Drepturile de proprietate intelectuala asupra codului trebuie mentionate
+explicit: cine detine codul dupa plata, daca poti folosi parti din el in alte
+proiecte, daca poti mentiona proiectul in portofoliu. Lipsa acestei clauze poate
+genera dispute mai tarziu.
+
+Clauza de confidentialitate (NDA) stabileste ce informatii ale clientului nu ai
+voie sa divulgi. Clientii mari o cer aproape intotdeauna. Citeste-o atent: unele
+clauze de neconcurenta pot limita, pe o perioada, lucrul cu alti clienti din
+acelasi domeniu.
+
+Pentru proiecte mai mari, plata in transe reduce riscul pentru ambele parti: un
+avans la inceput, plati la atingerea unor etape si restul la final. Pentru
+contracte cu valoare mare sau clauze neclare, o verificare facuta de un avocat
+costa mult mai putin decat un litigiu.
