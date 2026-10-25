@@ -1,0 +1,27 @@
+# Medii virtuale Python
+.venv/
+venv/
+env/
+
+# Fisiere temporare Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuratii locale si parole
+.env
+.env.*
+!.env.example
+*.local
+
+# Configuratii locale ale PyCharm
+.idea/
+
+# Date si fisiere temporare
+*.log
+.DS_Store
+Thumbs.db
+
+# Chei si certificate
+*.pem
+*.key

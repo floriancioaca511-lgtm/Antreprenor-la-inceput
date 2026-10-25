@@ -1,0 +1,11 @@
+sqlalchemy
+pymysql
+fastapi
+uvicorn
+streamlit
+requests
+chromadb
+openai
+langchain
+langchain-openai
+pydantic
