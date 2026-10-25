@@ -1,0 +1,34 @@
+PFA sau SRL: ce forma juridica alegi
+
+Cand incepi sa lucrezi pe cont propriu in Romania, cele mai frecvente doua
+variante sunt PFA (persoana fizica autorizata) si SRL (societate cu
+raspundere limitata). Alegerea influenteaza taxele platite, contabilitatea,
+raspunderea pentru datorii si felul in care scoti banii din afacere.
+
+PFA-ul nu este o firma separata de tine: tu, ca persoana fizica, esti
+autorizat sa desfasori o activitate economica. Infiintarea este simpla si
+ieftina, iar contabilitatea poate fi tinuta in partida simpla. Banii incasati
+sunt ai tai dupa plata taxelor - nu exista o etapa separata de "scoatere" a
+lor. Dezavantajul principal: raspunzi pentru datoriile activitatii cu tot
+patrimoniul personal.
+
+SRL-ul este o persoana juridica separata, cu propriul patrimoniu.
+Asociatii raspund pentru datoriile firmei, in principiu, doar in limita
+capitalului social subscris. Contabilitatea este in partida dubla si, in
+practica, necesita un contabil. Banii incasati sunt ai firmei; tu ii primesti
+ca salariu sau ca dividende, fiecare cu taxele lui.
+
+Criterii practice de alegere: volumul estimat al veniturilor, nivelul
+cheltuielilor reale ale activitatii, riscul activitatii (pentru activitati cu
+risc de prejudicii mari, raspunderea limitata a SRL-ului conteaza mai mult),
+cerintele clientilor (unii clienti lucreaza doar cu SRL-uri) si planurile de
+crestere (angajati, asociati, investitori).
+
+Pentru un freelancer IT la inceput, cu un singur client sau cativa clienti si
+cheltuieli mici, PFA-ul este adesea varianta mai simpla. Cand veniturile cresc
+sau activitatea devine mai complexa, comparatia cu un SRL microintreprindere
+merita refacuta.
+
+Regulile fiscale pentru ambele forme se modifica frecvent prin lege. Inainte
+de a decide, fa un calcul pe cifrele tale, cu valorile in vigoare, impreuna
+cu un contabil autorizat - diferentele pot fi semnificative de la un an la altul.
